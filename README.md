@@ -1,4 +1,4 @@
-# Smart Research Assistant
+## Smart Research Assistant
 
 This is a simple AI-powered tool I built that helps you research any topic by searching the web, summarising recent articles using a Hugging Face model, and generating a downloadable PDF summary. It runs entirely in the browser through a Streamlit interface.
 
@@ -6,22 +6,22 @@ This is a simple AI-powered tool I built that helps you research any topic by se
 
 ## What it does
 
-- Takes any topic as input
-- Searches the web using DuckDuckGo
-- Scrapes content from real articles
-- Summarises them using a pre-trained AI model (`facebook/bart-large-cnn`)
-- Creates a clean PDF report that can be downloaded
+- Takes any topic as input  
+- Searches the web using DuckDuckGo  
+- Scrapes content from real articles  
+- Summarises them using a pre-trained AI model (`facebook/bart-large-cnn`)  
+- Creates a clean PDF report that can be downloaded  
 
 ---
 
 ## Tools and Technologies
 
-- Python
-- Streamlit
-- Hugging Face Transformers
-- DuckDuckGo Search
-- BeautifulSoup (for parsing HTML)
-- FPDF (for creating the PDF)
+- Python  
+- Streamlit  
+- Hugging Face Transformers  
+- DuckDuckGo Search  
+- BeautifulSoup (for parsing HTML)  
+- FPDF (for creating the PDF)  
 
 ---
 
@@ -33,11 +33,8 @@ This is a simple AI-powered tool I built that helps you research any topic by se
 
 3. Start the app:
 
-
 ---
 
 ## Live App
-
 You can try the app here:  
 **https://jyothi-surla-smart-research-assistant.streamlit.app**
-
