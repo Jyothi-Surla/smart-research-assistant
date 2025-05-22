@@ -28,3 +28,18 @@ This is a simple AI-powered tool I built that helps you research any topic by se
 ## How to run it locally
 
 1. Clone this repository:
+git clone https://github.com/Jyothi-Surla/smart-research-assistant.git
+cd smart-research-assistant
+2. Install the required packages:
+pip install -r requirements.txt
+3. Start the app:
+streamlit run app.py
+
+
+---
+
+## Live App
+
+You can try the app here:  
+**https://jyothi-surla-smart-research-assistant.streamlit.app**
+
