@@ -1,0 +1,8 @@
+Topic: latest advancements in robotics
+
+
+--- Article 1 ---
+MAD Fellow Alexander Htet Kyaw connects humans, machines, and the physical world using AI and augmented reality. A new approach could enable intuitive robotic helpers for household, workplace, and warehouse settings.
+
+--- Article 2 ---
+ emerging robotics trends meet the growing demand for industrial automation, digitalization, and sustainability. Automated guided vehicles (AGVs) and autonomous mobile robots (AMRs) automate material handling in warehouses. cobots perform pick-and-place tasks alongside humans in manufacturing operations.
